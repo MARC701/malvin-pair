@@ -1,8 +1,8 @@
 {
     "name": "pair session",
     "description": "Web Session Generator",
-    "logo": "https://i.imgur.com/teQzVR1.jpeg",
-    "repository": "https://github.com/XdKing2/malvin-pair",
+    "logo": "https://files.catbox.moe/j3j6pn.jpg",
+    "repository": "https://github.com/MARC701/malvin-pair",
     "keywords": ["MalvinTech","XdKing2"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
