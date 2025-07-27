@@ -103,7 +103,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "𝙼𝙰𝙵𝙸𝙰-𝙼𝙳",
-thumbnailUrl: "https://files.catbox.moe/j3j6pn.jpg",
+thumbnailUrl: "https://ik.imagekit.io/Arslan22/IMG-20250725-WA0121.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vat4TFC0QeaoLURbP61u",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -139,7 +139,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "𝙼𝙰𝙵𝙸𝙰-𝙼𝙳",
-thumbnailUrl: "https://files.catbox.moe/j3j6pn.jpg",
+thumbnailUrl: "https://ik.imagekit.io/Arslan22/IMG-20250725-WA0121.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vat4TFC0QeaoLURbP61u",
 mediaType: 2,
 renderLargerThumbnail: true,
