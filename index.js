@@ -21,7 +21,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.listen(PORT, () => {
     console.log(`
-Don't Forgot To Give Follow MAFIA-TECH
+Don't Forgot To Follow MAFIA-TECH
 
  Server running on http://localhost:` + PORT)
 })
