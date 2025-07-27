@@ -98,8 +98,8 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "𝙼𝙰𝙵𝙸𝙰-𝙼𝙳 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
-thumbnailUrl: "https://files.catbox.moe/j3j6pn.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
+thumbnailUrl: "https://ik.imagekit.io/Arslan22/IMG-20250725-WA0121.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029Vat4TFC0QeaoLURbP61u",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -121,7 +121,7 @@ Thanks for using *𝐌𝐀𝐅𝐈𝐀-𝐌𝐃* — your session has been succe
 Join our official WhatsApp Channel:  
 https://whatsapp.com/channel/0029Vat4TFC0QeaoLURbP61u
 
-*💻 Source Code:*  
+*💻 Tiktok:*  
 Follow us on Tiktok:  
 https://www.tiktok.com/@arslan_chaudary_22?_t=ZS-8yBHkUnkJK3&_r=1
 
@@ -132,7 +132,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "𝙼𝙰𝙵𝙸𝙰-𝙼𝙳 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
-thumbnailUrl: "https://files.catbox.moe/j3j6pn.jpg",
+thumbnailUrl: "https://ik.imagekit.io/Arslan22/IMG-20250725-WA0121.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vat4TFC0QeaoLURbP61u",
 mediaType: 2,
 renderLargerThumbnail: true,
